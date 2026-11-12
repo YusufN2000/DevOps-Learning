@@ -1,6 +1,5 @@
 Linux
 
-
 Commands:
 
 ls - list the contents in the directory you are in. a- shows hidden directories (Hidden directories start with . -l list the full details of the directory including permissions. -R to see all contents in directory.
