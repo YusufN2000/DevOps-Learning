@@ -97,25 +97,47 @@ To create a permanent alias, add to the shell config file.
 OTW Bandit passwords:
 
 bandit0
+
 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+
 PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
+
 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
+
 xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
+
 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
+
 pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
+
 Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
+
 VR1ljMayciFxbnUokuQmJFw6QC9VKtub
+
 EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
+
 B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
+
 pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
+
 GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
+
 qQYQiHOBPR8zR61qxYqX45quvihF2uzk
+
 command to connect to 14 using ssh - ssh -i ~/sshkey.private -p 2220 bandit14@bandit.labs.overthewire.org
+
 aaWecNkG4FhxJQxz07uiwzVP6bJiYS65
+
 pbLYuZtTg4MgaqfJx8jbA9gKKGqM68A7
+
 kS0Hf0u5HiXFwKMKFqXvPdOTNGGa0X8V
+
 ssh -i bandit17.key -p 2220 bandit17@bandit.labs.overthewire.org
+
 OQxXZjELndr90zuhOTDYBEomI0SZITXI
+
 KpsOfPkcP7i1FlIExk2QEjyt6dw8dxZI
+
 4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA
+
 bW9kBv5WC3P4yoDyf12LSdGuNz5ka6hY
